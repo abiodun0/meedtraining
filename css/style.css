@@ -43,7 +43,7 @@ header {
     line-height: 1.3;
     width: 200px; }
 
-.top.navbar-default .navbar-toggle:focus, .top.navbar-default .navbar-toggle:hover, .top .navbar-default .navbar-nav > .active > a, .top .navbar-default .navbar-nav > .active > a:hover, .top .navbar-default .navbar-nav > .open > a, .top .navbar-default .navbar-nav > .open > a:focus, .top .navbar-default .navbar-nav > .open > a:hover {
+.top.navbar-default .navbar-toggle:focus, .top.navbar-default .navbar-toggle:hover, .top .navbar-default .navbar-nav > .active > a, .top.navbar-default .navbar-nav > .active > a:hover, .top.navbar-default .navbar-nav > .open > a, .top .navbar-default .navbar-nav > .open > a:focus, .top .navbar-default .navbar-nav > .open > a:hover {
   background-color: #42B7FD !important; }
 
 .navbar.top {

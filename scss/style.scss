@@ -56,7 +56,7 @@ header{
 }
 .top{
 
-	&.navbar-default .navbar-toggle:focus, &.navbar-default .navbar-toggle:hover,.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover,.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover{
+	&.navbar-default .navbar-toggle:focus, &.navbar-default .navbar-toggle:hover,.navbar-default .navbar-nav>.active>a, &.navbar-default .navbar-nav>.active>a:hover,&.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover{
 	background-color:$hover-active !important;
 }
 }
